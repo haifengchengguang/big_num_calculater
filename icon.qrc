@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>iconfinder_delete_1772623.ico</file>
+        <file>iconfinder_divide_216177.ico</file>
+        <file>iconfinder_square-add_226562.ico</file>
+        <file>iconfinder_square-subtract_226559.ico</file>
+    </qresource>
+</RCC>
